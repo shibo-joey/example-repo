@@ -1,2 +1,2 @@
 # example-repo
-HACK
+erased the git history for myself
